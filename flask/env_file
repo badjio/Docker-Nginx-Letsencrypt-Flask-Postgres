@@ -1,0 +1,5 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=<YOUR_DB_PASSWORD>
+POSTGRES_DB=<YOUR_DB_NAME>
+# Name of database container, it's "db" if you didn't change it in docker-compose.yml:
+POSTGRES_HOST=db
