@@ -1,5 +1,3 @@
-# Docker-Nginx-Letsencrypt-Flask-Postgres
-a Flask app using PostgreSQL and an Nginx proxy server with Letsencrypt, all through Docker containers
 
 ## Steps:
 1. Clone this repository.
